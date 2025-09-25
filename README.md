@@ -13,7 +13,7 @@ By practicing and documenting different concepts in Excel, I aim to show that I 
 - Example screenshots demonstrating Excel handling  
 
 -Screen shot
- ([Image 1](ss/ss1.png))
+ show : ([Image 1](ss/ss1.png))
  ([Image 2](ss/ss2.png))
  ([Image 3](ss/ss3.png))
 ---
@@ -81,3 +81,4 @@ This repository highlights my **Excel journey** and demonstrates my ability to:
 - Present data in a structured and analytical way  
 
 My goal is to continue improving these skills to prepare for real-world data projects and analytical job opportunities.  
+
